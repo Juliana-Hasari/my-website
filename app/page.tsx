@@ -10,6 +10,7 @@ import PembagianWilayah from "./components/PembagianWilayah";
 import Kontak from "./components/Kontak";
 import Footer from "./components/Footer";
 
+export const runtime = "edge";
 export default function Home() {
   console.log("Rendering Home Page"); // Tambahkan log di sini
 

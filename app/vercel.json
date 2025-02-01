@@ -1,12 +1,14 @@
 {
-    "routes":[
-        {
-            "src": "/",
-            "file": "/"
-        },
-        {
-            "src": "/",
-            "file": "/"
-        }
+    "build": {
+      "env": {
+        "NODE_ENV": "production"
+      }
+    },
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/.next/standalone/server.js"
+      }
     ]
-}
+  }
+  
