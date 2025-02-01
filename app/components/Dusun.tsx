@@ -14,10 +14,7 @@ export default function Dusun() {
       name: "Dusun Tanjong",
       description: "Jumlah penduduk dusun tanjong berjumlah 141 jiwa, diantaranya 65 orang laki-laki dan 76 orang perempuan.",
     },
-    // {
-    //   name: "Dusun Bahagia",
-    //   description: "Dusun Bahagia dikenal dengan keramahan warganya. Terdapat banyak destinasi wisata alam seperti pantai dan bukit.",
-    // },
+
   ];
 
   return (
