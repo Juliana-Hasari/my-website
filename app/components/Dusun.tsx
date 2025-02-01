@@ -1,17 +1,18 @@
 export default function Dusun() {
+  console.log("Rendering Dusun Component");
   // Data dusun dengan informasi yang berbeda
   const dusunList = [
     {
-      name: "Dusun Damai",
-      description: "Dusun Damai terkenal dengan suasana yang tenang dan lingkungan yang asri. Banyak kegiatan keagamaan dan sosial yang dilakukan di sini.",
+      name: "Dusun Blang",
+      description: "Berdasarkan pemutakhiran data terbaru akhir 2017, jumlah penduduk dusun blang berjumlah 139 jiwa, diantaranya 68 orang laki-laki dan 71 orang perempuan.",
     },
     {
-      name: "Dusun Sejahtera",
-      description: "Dusun Sejahtera adalah pusat perekonomian di Gampong Tanjong Hagu. Terdapat pasar tradisional dan sentra kerajinan tangan.",
+      name: "Dusun Teungoh",
+      description: "Jumlah penduduk dusun teungoh ini berjumlah 134 jiwa, diantaranya 62 orang laki-laki dan 72 orang perempuan",
     },
     {
-      name: "Dusun Makmur",
-      description: "Dusun Makmur memiliki lahan pertanian yang subur. Masyarakatnya sebagian besar bekerja sebagai petani dan nelayan.",
+      name: "Dusun Tanjong",
+      description: "Jumlah penduduk dusun tanjong berjumlah 141 jiwa, diantaranya 65 orang laki-laki dan 76 orang perempuan.",
     },
     // {
     //   name: "Dusun Bahagia",

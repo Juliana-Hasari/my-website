@@ -1,6 +1,7 @@
 import Link from "next/link"
 
 export default function Header() {
+  console.log("Rendering Header Component");
   return (
     <header className="bg-gray-200 bg-opacity-80 text-black p-4 fixed w-full z-10">
       <nav className="container mx-auto flex justify-between items-center">

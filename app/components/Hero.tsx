@@ -1,6 +1,7 @@
 import Image from "next/image"
 
 export default function Hero() {
+  console.log("Rendering Hero Component");
   return (
     <section className="relative h-screen flex items-center justify-center">
       <Image src="/Gampong.jpg" alt="Hero Background" layout="fill" objectFit="cover" priority />
