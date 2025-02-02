@@ -24,9 +24,10 @@ export default function Hero() {
           Selamat Datang di Gampong Tanjong Hagu
         </h1>
         <p className="text-xl drop-shadow-md">
-          Tanjong Hagu adalah salah satu gampong di Kecamatan Peukan Baro, Kabupaten Pidie, Provinsi Aceh, Indonesia.
+          Tanjong Hagu adalah salah satu gampong di Kecamatan Samudera, Kabupaten Aceh Utara, Provinsi Aceh, Indonesia.
         </p>
       </div>
     </section>
   );
 }
+
