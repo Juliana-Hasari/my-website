@@ -8,9 +8,9 @@ export default function Kontak() {
           <div className="text-justify">
             <h3 className="text-xl font-semibold mb-4">Alamat</h3>
             <p>Gampong Tanjong Hagu</p>
-            <p>Kecamatan Peukan Baro, Kabupaten Pidie</p>
+            <p>Kecamatan Samudera, Kab.Aceh Utara</p>
             <p>Provinsi Aceh, Indonesia</p>
-            <p>Kode Pos: 24172</p>
+            <p>Kode Pos: 24374</p>
           </div>
           <div className="text-justify">
             <h3 className="text-xl font-semibold mb-4">Kontak</h3>
@@ -23,3 +23,4 @@ export default function Kontak() {
     </section>
   );
 }
+
